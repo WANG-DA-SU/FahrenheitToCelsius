@@ -7,5 +7,5 @@
 #### *******************************************************
 #### 首先创建一个Scanner对象，即Scanner input = new Scanner（System.in);
 #### 然后声明一个double类型的变量fahrenheit,用next.Double()方法赋值，即double fahrenheit =input.nextDouble();
-#### 接着计算摄氏温度 double celsius = （5 / 9 ） * （fahrenheit - 32);
+#### 接着计算摄氏温度 double celsius = （5.0 / 9 ） * （fahrenheit - 32);
 #### 最后在控制台输出结果
